@@ -41,7 +41,7 @@ workflows:
   prepare_publish:
     jobs:
       - prepare:
-          context: .env
+          # context: .env
           filters:
             branches:
               only:
