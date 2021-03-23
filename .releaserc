@@ -7,8 +7,5 @@
       "changelogFile": "docs/CHANGELOG.md",
     }],
     ["@semantic-release/npm", {"npmPublish": true}],
-    ["@semantic-release/git", {
-      "assets": ["docs/CHANGELOG.md", "package.json", "package-lock.json"],
-    }],
   ]
 }
