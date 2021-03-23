@@ -3,6 +3,18 @@
 
 ### Bug Fixes
 
+* **index:** add console ([8257045](https://github.com/LucianoChen/node_test/commit/825704519d6a9a4178f839a8fb3c25340dfbc3cf))
+* **index:** rm console ([2f488b2](https://github.com/LucianoChen/node_test/commit/2f488b26927b7221f654cc57cd7c42d7e0e4f13d))
+* **release:** modify yml ([3fcb28f](https://github.com/LucianoChen/node_test/commit/3fcb28f7d1182c05b5588e3581bba4596edbccae))
+* **token:** change token ([5927204](https://github.com/LucianoChen/node_test/commit/5927204ba1974d62845093cf7684782702a2b2f7))
+* **token:** change token ([19d0124](https://github.com/LucianoChen/node_test/commit/19d01242f53a67d36f84c8b0df65df723fbc5a79))
+* **token:** change token ([e380f55](https://github.com/LucianoChen/node_test/commit/e380f55574ac86b83557c66a567cc59002061ff7))
+
+## [1.0.2](https://github.com/LucianoChen/node_test/compare/v1.0.1...v1.0.2) (2021-03-23)
+
+
+### Bug Fixes
+
 * **index:** rm console ([2f488b2](https://github.com/LucianoChen/node_test/commit/2f488b26927b7221f654cc57cd7c42d7e0e4f13d))
 * **release:** modify yml ([3fcb28f](https://github.com/LucianoChen/node_test/commit/3fcb28f7d1182c05b5588e3581bba4596edbccae))
 * **token:** change token ([5927204](https://github.com/LucianoChen/node_test/commit/5927204ba1974d62845093cf7684782702a2b2f7))
