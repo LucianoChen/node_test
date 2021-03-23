@@ -1,3 +1,11 @@
+## [1.0.2](https://github.com/LucianoChen/node_test/compare/v1.0.1...v1.0.2) (2021-03-23)
+
+
+### Bug Fixes
+
+* **index:** rm console ([2f488b2](https://github.com/LucianoChen/node_test/commit/2f488b26927b7221f654cc57cd7c42d7e0e4f13d))
+* **release:** modify yml ([3fcb28f](https://github.com/LucianoChen/node_test/commit/3fcb28f7d1182c05b5588e3581bba4596edbccae))
+
 ## [1.0.1](https://github.com/LucianoChen/node_test/compare/v1.0.0...v1.0.1) (2021-03-23)
 
 
