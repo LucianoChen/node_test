@@ -11,7 +11,7 @@ jobs:
       - checkout
       - run:
           name: Set npm token
-          command: npm config set '//registry.npmjs.org/:_authToken' '87ea7cc0-aced-4d22-a43e-0974614c1683'
+          command: npm config set '//registry.npmjs.org/:_authToken' 'd70a85b3-94f0-4489-842a-8785db4986ba'
       - restore_cache:
           keys:
             - v1-dependencies-{{ checksum "package.json" }}
