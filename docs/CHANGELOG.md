@@ -1,3 +1,11 @@
+## [1.0.3](https://github.com/LucianoChen/node_test/compare/v1.0.2...v1.0.3) (2021-03-23)
+
+
+### Bug Fixes
+
+* **token:** modify yml ([2b722eb](https://github.com/LucianoChen/node_test/commit/2b722eb0eba527418351bd083708d1bade29fcbf))
+* **token:** modify yml ([04af485](https://github.com/LucianoChen/node_test/commit/04af485d308925c79a335bc2553556d6f7397f57))
+
 ## [1.0.2](https://github.com/LucianoChen/node_test/compare/v1.0.1...v1.0.2) (2021-03-23)
 
 
