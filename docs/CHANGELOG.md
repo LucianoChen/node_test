@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/LucianoChen/node_test/compare/v1.0.6...v1.0.7) (2021-03-24)
+
+
+### Bug Fixes
+
+* **package:** modify repo ([c3e84b2](https://github.com/LucianoChen/node_test/commit/c3e84b21713c3abda520ba6d11d888a9290b0931))
+
 ## [1.0.6](https://github.com/LucianoChen/node_test/compare/v1.0.5...v1.0.6) (2021-03-24)
 
 

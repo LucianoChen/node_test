@@ -1,11 +1,11 @@
 {
   "name": "@idiot_kj/node_test",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" ",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release --no-ci"
   },
   "author": "Luciano",
   "license": "ISC",
@@ -19,6 +19,10 @@
     "@semantic-release/npm": "^7.0.10",
     "@semantic-release/release-notes-generator": "^9.0.2",
     "semantic-release": "^17.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LucianoChen/node_test.git"
   },
   "devDependencies": {
     "semantic-release": "^17.4.2"
