@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/LucianoChen/node_test/compare/v1.0.4...v1.0.5) (2021-03-24)
+
+
+### Bug Fixes
+
+* **package:** modify privacy ([960c433](https://github.com/LucianoChen/node_test/commit/960c433d294f571322fe5ac3be10d8660006658e))
+
 ## [1.0.4](https://github.com/LucianoChen/node_test/compare/v1.0.3...v1.0.4) (2021-03-23)
 
 
