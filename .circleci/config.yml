@@ -9,9 +9,6 @@ jobs:
     executor: node-executor
     steps:
       - checkout
-      - run:
-          name: Set npm token
-          command: npm config set '//registry.npmjs.org/:_authToken' $NPM_TOKEN2
       - restore_cache:
           keys:
             - v1-dependencies-{{ checksum "package.json" }}
