@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" ",
-    "semantic-release": "semantic-release --no-ci"
+    "semantic-release": "semantic-release"
   },
   "author": "Luciano",
   "license": "ISC",
