@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/LucianoChen/node_test/compare/v1.0.9...v1.0.10) (2021-03-24)
+
+
+### Bug Fixes
+
+* **yml:** modify yml ([03399b4](https://github.com/LucianoChen/node_test/commit/03399b4072a1f80b02ba903e4471767d0a7cae63))
+
 ## [1.0.9](https://github.com/LucianoChen/node_test/compare/v1.0.8...v1.0.9) (2021-03-24)
 
 
