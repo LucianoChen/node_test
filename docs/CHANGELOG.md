@@ -1,3 +1,10 @@
+## [1.0.12](https://github.com/LucianoChen/node_test/compare/v1.0.11...v1.0.12) (2021-05-24)
+
+
+### Bug Fixes
+
+* **index:** test ([afa9b15](https://github.com/LucianoChen/node_test/commit/afa9b15e06f7d59836c718372abf48d73ace5def))
+
 ## [1.0.11](https://github.com/LucianoChen/node_test/compare/v1.0.10...v1.0.11) (2021-03-24)
 
 
